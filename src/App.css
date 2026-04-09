@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  width: 100%;
+  height: 100vh;
+  background: #ffffff;
+  text-align: center;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.logo1 {
+  height: 60px;
+  margin: 20px auto;
+  display: block;
+}
+
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.tudo {
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+}
+
+.tudo img {
+  width: 100%;
+  width: 250px;
+  margin-bottom: 15px;
+}
+
+#inf1 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#inf2 {
+  color: green;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
